@@ -38,7 +38,9 @@ terraform apply -auto-approve
 `terraform validate `    # Validate syntax
 
 `terraform plan  `       # Preview changes
+
 `terraform apply `       # Apply infrastructure
+
 `terraform destroy  `    # Destroy infrastructure
 
 ### Once the tfstate file is deleted we will have backup we will seen it by :
