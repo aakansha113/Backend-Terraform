@@ -33,11 +33,13 @@ terraform plan
 terraform apply -auto-approve
 ```
 ## Which defines:
-terraform fmt          # Format the code
-terraform validate     # Validate syntax
-terraform plan         # Preview changes
-terraform apply        # Apply infrastructure
-terraform destroy      # Destroy infrastructure
+`terraform fmt`          # Format the code
+
+`terraform validate `    # Validate syntax
+
+`terraform plan  `       # Preview changes
+`terraform apply `       # Apply infrastructure
+`terraform destroy  `    # Destroy infrastructure
 
 ### Once the tfstate file is deleted we will have backup we will seen it by :
 ```
