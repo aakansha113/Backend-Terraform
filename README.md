@@ -12,8 +12,9 @@ Before running the Terraform configuration, make sure you have:
 ---
 ### 📥 Clone This Repository
 To clone this portfolio on your local system, run:
-
+```
 git clone https://github.com/aakansha113/Backend-Terraform.git
+```
 ##  Setup Instructions
 
 ### Initialize Terraform**
